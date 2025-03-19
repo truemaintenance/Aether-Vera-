@@ -11,12 +11,11 @@ Vera AI is an intelligent system designed to assist users with various queries.
 To install the project, follow these steps:
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/truemaintenance/Aether-Vera-.git
+     Aether-Vera
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Aether-Vera-
+    https://github.com/truemaintenance/Aether-Vera-.git
     ```
 3. Install dependencies:
     ```sh
@@ -29,3 +28,4 @@ To start the project, run the following command:
 
 ```sh
 npm start
+
